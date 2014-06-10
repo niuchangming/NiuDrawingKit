@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HandDrawingDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ink">Chinese ink</string>
+    <string name="colorful">Cololful</string>
+    <string name="outer_glow">Outer glow</string>
+    <string name="inner_glow">Inner glow</string>
+    <string name="empty">Empty</string>
+    <string name="solid">Solid</string>
+	<string name="circle">Cicle</string>
+	<string name="circle_fill">Cicle fill</string>
+	<string name="rect">Rect</string>
+	<string name="rect_fill">Rect fill</string>
+	<string name="pen">pen</string>
+	<string name="line">Line</string>
+	<string name="mytxt">My Text</string>
+	
+</resources>

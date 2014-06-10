@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#100F0F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="holo_blue">#33b5e5</color>
+    <color name="trans_black">#80000000</color>
+    <color name="holo_red">#ff4444</color>
+    <color name="holo_purple">#aa66cc</color>
+    <color name="holo_yellow">#ffbb33</color>
+    <color name="holo_green">#99cc00</color>
+</resources>
